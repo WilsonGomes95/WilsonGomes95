@@ -13,7 +13,7 @@
 * **Desenvolvimento Web:** HTML, CSS, Django
 * **Controle de Versão:** Git, GitHub
 * **Banco de Dados:** MySQL, SQLServer
-* [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
+* [!Linux(https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
 
 **Habilidades:**
 
