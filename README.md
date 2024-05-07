@@ -13,7 +13,7 @@
 * **Desenvolvimento Web:** HTML, CSS, Django
 * **Controle de Versão:** Git, GitHub
 * **Banco de Dados:** MySQL, SQLServer
-* **Softwares:** [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)], [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white), [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)])
+* [!(Linux)(https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
 
 **Habilidades:**
 
