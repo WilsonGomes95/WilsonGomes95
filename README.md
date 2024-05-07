@@ -13,7 +13,8 @@
 * **Desenvolvimento Web:** HTML, CSS, Django
 * **Controle de Versão:** Git, GitHub
 * **Banco de Dados:** MySQL, SQLServer
-* [![Texto alternativo](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](link opcional), [![Texto alternativo]([URL do escudo](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white))](link opcional)
+[![Texto alternativo]([URL do escudo](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white))](link opcional)
+
 
 **Habilidades:**
 
