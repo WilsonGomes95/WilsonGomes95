@@ -15,7 +15,7 @@
 <br>[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]() [![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
 * **Softwares:** 
 <br>[![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]() [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() 
-<br>[![Git](https://github-readme-stats.vercel.app/api/top-langs/?username={WilsonGomes95}&theme=blue-green)]()
+<br>[![Git](https://github-readme-stats.vercel.app/api?username={WilsonGomes95}&theme=blue-green)]()
 
 **Habilidades:**
 
