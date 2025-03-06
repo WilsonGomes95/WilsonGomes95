@@ -55,5 +55,3 @@ Atualmente, atuo como **Analista de Service Desk Júnior na Scala Data Centers**
 🐙 **GitHub:** [WilsonGomes95](https://github.com/WilsonGomes95)  
 
 ---
-
-Me avise se quiser algum ajuste ou detalhe extra! 🚀  
