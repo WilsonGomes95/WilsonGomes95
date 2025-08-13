@@ -2,9 +2,9 @@
 
 ## 🚀 Sobre mim  
 
-Olá! Eu sou **Wilson Gomes** (_WilsonGomes95_), um **Analista de Sistemas & Desenvolvedor Back-End** apaixonado por tecnologia, automação e inovação. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na Universidade Paulista, aprimorando minhas habilidades em **Java, C#, SQL e ServiceNow**.  
-
-Atualmente, atuo como **Analista de Service Desk Júnior na Scala Data Centers**, garantindo suporte técnico eficiente e resolução de incidentes, sempre focado na melhoria contínua dos processos. Busco sempre me aprofundar em **desenvolvimento de software, APIs REST e automação de TI** para criar soluções inovadoras e escaláveis.  
+Sou um profissional em transição para as áreas de Desenvolvimento Back-End e Análise de Sistemas, com experiência em suporte técnico e um forte interesse em automação e desenvolvimento de software. Atualmente, estudo Análise e Desenvolvimento de Sistemas na UNINOVE, com foco em Java, SQL, Python, Spring Boot e APIs REST.
+Possuo certificações em Git, Programação Orientada a Objetos e Linux, além de experiência prática no uso de GitHub, ServiceNow e banco de dados MySQL.
+Busco oportunidades para aplicar meu conhecimento e evoluir como desenvolvedor ou analista, contribuindo com soluções inovadoras e eficazes.
 
 ---
 
